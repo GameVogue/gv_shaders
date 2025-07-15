@@ -1,1 +1,1 @@
-A collection of LUTs for use in ReShade shaders like [MultiLUT](https://github.com/FransBouma/OtisFX/blob/master/src/Shaders/MultiLUT.fx).
+A collection of LUTs for use in ReShade with [MultiLUT](https://github.com/FransBouma/OtisFX/blob/master/src/Shaders/MultiLUT.fx) or MartyMods' [LUT Manager](https://guides.martysmods.com/shaders/immerseultimate/lutmanager/).
